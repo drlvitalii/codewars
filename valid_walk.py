@@ -9,6 +9,8 @@
 # Note: you will always receive a valid array containing a random assortment of direction letters
 # ('n', 's', 'e', or 'w' only). It will never give you an empty array (that's not a walk, that's standing still!).
 
+## NOT ALL TESTS PASSED
+
 def is_valid_walk(walk):
     count_n = 0
     count_s = 0
