@@ -1,9 +1,10 @@
 import jaden_case
+import valid_walk
+from unique_in_order import unique_in_order
 
 
 def main():
-    input = 'How can mirrors be real if our eyes aren\'t real'
-    jaden_case.to_jaden_case(input)
+    unique_in_order([1,2,2,3,3])
 
 
 if __name__ == "__main__":
