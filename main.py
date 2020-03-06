@@ -1,7 +1,4 @@
-import jaden_case
-import valid_walk
-from disemvowel import disemvowel
-from unique_in_order import unique_in_order
+from tasks.disemvowel import disemvowel
 
 
 def main():
